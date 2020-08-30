@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/hangman-page/static/css/main.69eda509.chunk.css",
-    "main.js": "/hangman-page/static/js/main.02c48654.chunk.js",
-    "main.js.map": "/hangman-page/static/js/main.02c48654.chunk.js.map",
+    "main.js": "/hangman-page/static/js/main.3b15ff1a.chunk.js",
+    "main.js.map": "/hangman-page/static/js/main.3b15ff1a.chunk.js.map",
     "runtime-main.js": "/hangman-page/static/js/runtime-main.c415fd7a.js",
     "runtime-main.js.map": "/hangman-page/static/js/runtime-main.c415fd7a.js.map",
-    "static/js/2.73c37a31.chunk.js": "/hangman-page/static/js/2.73c37a31.chunk.js",
-    "static/js/2.73c37a31.chunk.js.map": "/hangman-page/static/js/2.73c37a31.chunk.js.map",
+    "static/js/2.150464d3.chunk.js": "/hangman-page/static/js/2.150464d3.chunk.js",
+    "static/js/2.150464d3.chunk.js.map": "/hangman-page/static/js/2.150464d3.chunk.js.map",
     "index.html": "/hangman-page/index.html",
-    "precache-manifest.84fba885a39cf2a1c5479df82499e27b.js": "/hangman-page/precache-manifest.84fba885a39cf2a1c5479df82499e27b.js",
+    "precache-manifest.6179592f0b198325bea9b9544983fe20.js": "/hangman-page/precache-manifest.6179592f0b198325bea9b9544983fe20.js",
     "service-worker.js": "/hangman-page/service-worker.js",
     "static/css/main.69eda509.chunk.css.map": "/hangman-page/static/css/main.69eda509.chunk.css.map",
-    "static/js/2.73c37a31.chunk.js.LICENSE.txt": "/hangman-page/static/js/2.73c37a31.chunk.js.LICENSE.txt",
+    "static/js/2.150464d3.chunk.js.LICENSE.txt": "/hangman-page/static/js/2.150464d3.chunk.js.LICENSE.txt",
     "static/media/page-head.png": "/hangman-page/static/media/page-head.1cc90bfe.png"
   },
   "entrypoints": [
     "static/js/runtime-main.c415fd7a.js",
-    "static/js/2.73c37a31.chunk.js",
+    "static/js/2.150464d3.chunk.js",
     "static/css/main.69eda509.chunk.css",
-    "static/js/main.02c48654.chunk.js"
+    "static/js/main.3b15ff1a.chunk.js"
   ]
 }
